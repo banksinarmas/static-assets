@@ -1,25 +1,19 @@
 [{
-  "label": "30 % Diskon Di Selurah Dunia ",
-  "subtitle": "abcdef ",
-  "footer": "05 / 04 / 2017 ",
-  "navigateTo": "TD / SKN / CC ",
+  "label": "Some Time Deposit offer",
+  "subtitle": "XYZ ",
+  "footer": "05/04/2017 ",
+  "navigateTo": "TD",
   "offerID": "0"
 }, {
-  "label": "30 % Diskon Di Selurah Dunia ",
-  "subtitle": "abcdef ",
+  "label": "Some SKN offer",
+  "subtitle": "Lorem Ipsum ",
   "footer": "05 / 04 / 2017 ",
   "navigateTo": "TD / SKN / CC ",
   "offerID": "1"
 }, {
-  "label": "30 % Diskon Di Selurah Dunia ",
-  "subtitle": "abcdef ",
+  "label": "Some credit card offer",
+  "subtitle": "ABC ",
   "footer": "05 / 04 / 2017 ",
-  "navigateTo": "TD / SKN / CC ",
+  "navigateTo": "CC",
   "offerID": "2"
-}, {
-  "label": "30 % Diskon Di Selurah Dunia ",
-  "subtitle": "abcdef ",
-  "footer": "05 / 04 / 2017 ",
-  "navigateTo": "TD / SKN / CC ",
-  "offerID": "3"
 }]
