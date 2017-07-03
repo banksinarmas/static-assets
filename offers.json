@@ -2,17 +2,17 @@
   "label": "SKN Fee Waiver: Bebas  Biaya Transfer via SKN hanya di New Simobi+",
   "subtitle": "",
   "footer": "30 / 07 / 2017 ",
-  "navigateTo": "TD",
+  "navigateTo": "SKN",
   "offerID": "0"
 }, {
   "label": "Sekarang dapatkan pengembalian 7% untuk semua TD Anda yang dibuat dari New Simobi+",
-  "subtitle": "Lorem Ipsum ",
+  "subtitle": "",
   "footer": "17 / 07 / 2017 ",
-  "navigateTo": "SKN",
+  "navigateTo": "TD",
   "offerID": "1"
 }, {
   "label": "Sekarang Bayar semua tagihan Kartu Kredit Anda melalui Simobi +",
-  "subtitle": "ABC ",
+  "subtitle": "",
   "footer": "05 / 07 / 2017 ",
   "navigateTo": "CC",
   "offerID": "2"
