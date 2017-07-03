@@ -1,7 +1,7 @@
 [{
-  "imageLink": "https://raw.githubusercontent.com/banksinarmas/static-assets/master/banners/sample1.png",
+  "imageLink": "https://raw.githubusercontent.com/banksinarmas/static-assets/master/banners/skn-banner.png",
   "location": "TRANSFER"
 }, {
-  "imageLink": "https://raw.githubusercontent.com/banksinarmas/static-assets/master/banners/sample2.png",
+  "imageLink": "https://raw.githubusercontent.com/banksinarmas/static-assets/master/banners/td-banner.png",
   "location": "NO_TD_DASHBOARD"
 }]
