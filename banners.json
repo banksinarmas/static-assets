@@ -3,5 +3,8 @@
   "location": "TRANSFER"
 }, {
   "imageLink": "https://raw.githubusercontent.com/banksinarmas/static-assets/master/banners/td-banner.png",
-  "location": "NO_TD_DASHBOARD"
+  "location": "TD_DASHBOARD"
+},{
+  "imageLink": null,
+  "location": "PAY"
 }]
