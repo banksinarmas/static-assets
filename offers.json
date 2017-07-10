@@ -4,19 +4,19 @@
   "footer": "30 / 07 / 2017 ",
   "navigateTo": ["Send"],
   "offerID": "SKN",
-  "imgUrl" "https://github.com/banksinarmas/static-assets/raw/master/offerAssets/skn.png"
+  "imgUrl": "https://github.com/banksinarmas/static-assets/raw/master/offerAssets/skn.png"
 }, {
   "label": "Sekarang dapatkan pengembalian 7% untuk semua TD Anda yang dibuat dari New Simobi+",
   "subtitle": "",
   "footer": "17 / 07 / 2017 ",
   "navigateTo": ["TdForm"],
   "offerID": "TD",
-  "imgUrl" "https://github.com/banksinarmas/static-assets/raw/master/offerAssets/td.png"
+  "imgUrl": "https://github.com/banksinarmas/static-assets/raw/master/offerAssets/td.png"
 }, {
   "label": "Sekarang Bayar semua tagihan Kartu Kredit Anda melalui Simobi +",
   "subtitle": "",
   "footer": "05 / 07 / 2017 ",
   "navigateTo": ["CreditCard"],
   "offerID": "CC",
-  "imgUrl" "https://github.com/banksinarmas/static-assets/raw/master/offerAssets/cc.png"
+  "imgUrl": "https://github.com/banksinarmas/static-assets/raw/master/offerAssets/cc.png"
 }]
